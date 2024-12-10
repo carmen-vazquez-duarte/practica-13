@@ -1,0 +1,19 @@
+
+.parrafo-1{
+    position:relative;
+    width: 50vw;
+    left: 25vw;
+    top: 50vw;
+    font: size 50px;
+    text-align: justify;
+    margin:0 auto;
+}
+.parrafo-2{
+    position: relative;
+    width: 50vw;
+    right:25vw;
+    bottom: 50vw;
+    font: size 50px;
+    text-align: justify;
+    margin:0 auto;
+}

@@ -1,0 +1,50 @@
+
+.parrafo-1, .parrafo-2{
+    width: 50Svw;
+    font: size 50px;
+    text-align: justify;
+    margin:0 auto;
+}
+
+div{
+    width: 50px;
+    height: 50px;
+    background-color:aquamarine;
+}
+.numero1{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top:0;
+    left:0;
+}
+.numero2{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top:0;
+    right:0;
+}
+.numero3{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    bottom:0;
+    left:0;
+}
+.numero4{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    bottom:0;
+    right:0;
+}
+.numero5{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top:calc(50vh - 25px);
+   left:calc(50vw - 25px)
+}
+
+
